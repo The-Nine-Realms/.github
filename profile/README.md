@@ -1,6 +1,6 @@
-![Banner](https://i.imgur.com/0SAdetm.png)
+![Banner](https://i.imgur.com/K8mXxOi.png)
 
-Hey guys glad you found your way here. We are starting a brand new development community with the common goal to learn programming in different areas and to support each other. Whether beginner or advanced here is something for everyone.
+Hey guys glad you found your way here. We are starting a brand new tech community with the common goal to learn programming & hacking in different areas and to support each other. Whether beginner or advanced here is something for everyone.
 
 **Areas in which we produce videos:**
 
@@ -10,13 +10,13 @@ Hey guys glad you found your way here. We are starting a brand new development c
 
 #### Here you can find direct support
 
-<a href='http://discord.t9realms.dev' target='_blank'>![alt Discord](https://img.shields.io/discord/963086832772452372?style=for-the-badge&logo=discord&logoColor=00eeff)</a>
+<a href='http://discord.t9realms.dev' target='_blank'>![alt Discord](https://img.shields.io/discord/998166842575179786?style=for-the-badge&logo=discord&logoColor=00eeff)</a>
 
 
 **Video Tutorials**
 
 
-[![yt](https://img.shields.io/youtube/channel/subscribers/UCYWbRfaKuxioM9CV7oY0UNA?style=for-the-badge&logo=youtube&logoColor=ff0000)][yt]
+[![yt](https://img.shields.io/youtube/channel/subscribers/UC2H6l3SRY-UtnLDXfPGCJvg?style=for-the-badge&logo=youtube&logoColor=ff0000)][yt]
 
 **Languages and Tools:** 
 
@@ -35,4 +35,4 @@ Hey guys glad you found your way here. We are starting a brand new development c
 </a> -->
 
 [discord]: https://discord.t9realms.dev
-[yt]: https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA
+[yt]: https://www.youtube.com/channel/UC2H6l3SRY-UtnLDXfPGCJvg
